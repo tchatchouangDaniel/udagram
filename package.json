@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "frontend:test": "",
+    "frontend:build": "",
+    "frontend:deploy": "",
+    "backend:test": "",
+    "backend:build": "",
+    "backend:deploy": ""
+  },
+  "devDependencies": {}
+}
